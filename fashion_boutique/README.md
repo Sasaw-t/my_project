@@ -1,1 +1,2 @@
-This is my personal projects
+# Fashion Boutique Analysis Project
+this
