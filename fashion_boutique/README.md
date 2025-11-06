@@ -32,3 +32,6 @@
 **4.เครื่องมือที่ใช้**
 * SQL: ทำ Data Cleaning และ EDA
 * Power BI: สร้าง Interactive Dashboard
+
+**5.Data Source**
+* https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025?select=fashion_boutique_dataset.csv
